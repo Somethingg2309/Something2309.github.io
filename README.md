@@ -1,2 +1,2 @@
-web101x-Assignment-03
-- Techologies: HTML, CSS, Javascrpit.
+web101x-assignment-03
+- Technologies: HTML, CSS, Javascript.
